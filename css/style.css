@@ -1,0 +1,81 @@
+body{
+    background: #ffca28;
+    color: black;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+.container img{
+    height: 30%;
+    width: 40%;
+    border-radius: 50%;
+    border: 1px solid #black;
+    box-shadow: -2px 1px 1px rgba(0, 0, 0, 1);
+    }
+nav{
+    margin: 20px;
+}
+nav img{
+    display: inline;
+    height: 30px;
+    width: 30px;
+    border-radius: 30%;
+    border: ;?
+    text-decoration: none;
+    
+    }
+
+ul{
+    list-style: none;
+    display: inline-block;
+    margin-left: 0%;
+    padding-left: 0%;
+}
+
+
+ul li{
+    box-shadow: -3px 2px 1px rgba(0, 0, 0, 1);
+    color: black;
+    
+}
+.btn:hover{
+    font-size: 16px;
+    
+}
+
+p{
+    line-height: 20px;
+    letter-spacing: 1px;
+    }
+
+footer{
+    background:;
+    height: 200px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+hr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btn{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 14px;
+    color: black;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 20px;
+    border: solid 3px black;
+    
+}
+ul li a:link, ul li a:visited{
+    display: inline-block;
+    padding: 0px;
+    margin-bottom: ©0px;
+    text-decoration: none;
+    color: black;
+    
+}
